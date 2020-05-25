@@ -1,0 +1,17 @@
+.project-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.project-list li {
+    display: block;
+    width: 30%;
+    margin-top: 15px;
+}
+
+.project-list li img {
+    display: block;
+    width: 100%;
+}
